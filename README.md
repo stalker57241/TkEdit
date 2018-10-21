@@ -1,2 +1,2 @@
-# TkEdit
-The text editor on Tkinter
+# TextEdit
+This is simple text editor on Tkinter
